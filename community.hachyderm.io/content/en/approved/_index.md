@@ -77,6 +77,7 @@ other API hooks, podcasts, and so forth.**
 
 ### OSS Projects
 
+* <a rel="me" href="https://hachyderm.io/@a11ystudio">A11y Studio</a>
 * <a rel="me" href="https://hachyderm.io/@AnySoftKeyboard">AnySoftKeyboard</a>
 * <a rel="me" href="https://hachyderm.io/@AsuraLinux">AsuraLinux</a>
 * <a rel="me" href="https://hachyderm.io/@Backloggery">Backloggery</a>
