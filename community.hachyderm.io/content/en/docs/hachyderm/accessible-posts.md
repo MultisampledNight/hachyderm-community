@@ -65,9 +65,8 @@ can happen with sustainable time and effort on your part.
 When posting accessibly:
 
 1. Include effective alt text for images.
-   * Note you cannot add alt text after posting by editing a post. This includes both creating
-     new alt text that was neglected or fixing existing alt text. The common work around
-     is to comment to your post with the alt text.
+   * Note that you *can* edit alt text after posting, the `Edit` button appears
+     on media once you edit the post.
 1. Use PascalCase or camelCase for your hashtags.
 1. Learn how to write effective summaries for audio / video content.
 1. Prioritize audio content with captions and transcripts where available.
